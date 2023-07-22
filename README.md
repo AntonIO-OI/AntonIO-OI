@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonio-oi&label=Profile%20views&color=0e75b6&style=flat" alt="antonio-oi" /> </p>
 
-- 🌱 I’m currently learning **🐍 Django, 🏄 Golang, 📜 PostgreSQL  **
+- 🌱 I’m currently learning **🐍 Django, 🏄 Golang, 📜 PostgreSQL**
 
 - 📫 How to reach me **bur.anton@lll.kpi.ua**
 
