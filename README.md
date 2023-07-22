@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonio-oi&show_icons=true&locale=en" alt="antonio-oi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-oi&" alt="antonio-oi" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-oi&" alt="antonio-oi" /></p>
