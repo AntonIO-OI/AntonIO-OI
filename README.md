@@ -35,10 +35,11 @@
 </p>
 
 <div style="width: 100%; margin: 0 auto; display: flex; flex-direction: row;">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-oi&" alt="antonio-oi" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonio-oi&show_icons=true&locale=en" alt="antonio-oi" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-oi&" alt="antonio-oi" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=antonio-oi&show_icons=true&locale=en" alt="antonio-oi" /></p>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonio-oi&show_icons=true&locale=en&layout=compact" alt="antonio-oi" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonio-oi&show_icons=true&locale=en&layout=compact" alt="antonio-oi" /></p>
+
 
 
 
