@@ -37,5 +37,5 @@
 
 ![antonio-oi](https://github-readme-stats.vercel.app/api/top-langs?username=antonio-oi&show_icons=true&locale=en&layout=compact)
 
-![antonio-oi](https://github-readme-streak-stats.herokuapp.com/?user=antonio-oi&)![antonio-oi](https://github-readme-stats.vercel.app/api?username=antonio-oi&show_icons=true&locale=en)
+![antonio-oi](https://github-readme-streak-stats.herokuapp.com/?user=antonio-oi&)                 ![antonio-oi](https://github-readme-stats.vercel.app/api?username=antonio-oi&show_icons=true&locale=en)
 
