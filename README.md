@@ -12,8 +12,8 @@
 <a href="https://t.me/k0b_bra" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="k0bra" height="30" /></a>
 <a href="https://instagram.com/an.ton6392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="an.ton6392" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/k0bra" target="blank"><img align="center" src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png" alt="an.ton6392" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/k0bra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k0bra" height="30" /></a>
 <a href="https://discord.gg/K0bra#7585" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="K0bra#7585" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/k0bra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k0bra" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
