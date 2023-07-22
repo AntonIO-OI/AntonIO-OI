@@ -3,12 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonio-oi&label=Profile%20views&color=0e75b6&style=flat" alt="antonio-oi" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antonio-oi" alt="antonio-oi" /></a> </p>
+
 - 🌱 I’m currently learning **🐍 Django : scalable and secure, 🥃 Flask : simple and flexible, 📚 SQLAlchemy : database toolkit**
 
 - 📫 How to reach me **bur.anton@lll.kpi.ua**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/an.ton6392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="an.ton6392" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/k0bra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k0bra" height="30" width="40" /></a>
 <a href="https://discord.gg/K0bra#7585" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="K0bra#7585" height="30" width="40" /></a>
 </p>
