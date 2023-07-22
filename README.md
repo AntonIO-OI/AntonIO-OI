@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://instagram.com/an.ton6392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="an.ton6392" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/k0bra" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="an.ton6392" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/k0bra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k0bra" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/k0bra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k0bra" height="40" width="40" /></a>
 <a href="https://discord.gg/K0bra#7585" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="K0bra#7585" height="30" width="40" /></a>
 </p>
 
