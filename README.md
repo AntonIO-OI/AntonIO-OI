@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonio-oi&label=Profile%20views&color=0e75b6&style=flat" alt="antonio-oi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antonio-oi" alt="antonio-oi" /></a> </p>
-
 - 🌱 I’m currently learning **🐍 Django : scalable and secure, 🥃 Flask : simple and flexible, 📚 SQLAlchemy : database toolkit**
 
 - 📫 How to reach me **bur.anton@lll.kpi.ua**
