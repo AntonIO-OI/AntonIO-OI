@@ -41,5 +41,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonio-oi&show_icons=true&locale=en" alt="antonio-oi" /></p>
 
+## Github statistics:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uliana200407&theme=swift)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-oi&" alt="antonio-oi" /></p>
 
